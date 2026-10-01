@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-label="Ilustração de colinas verdes com árvore, sol e patinhas de animais">
+<rect width="900" height="700" fill="#dff0f7"/><circle cx="690" cy="170" r="90" fill="#ffb938"/>
+<path d="M0 470C180 360 330 400 470 450S760 440 900 380V700H0Z" fill="#7cc49a"/>
+<path d="M0 560C200 480 380 540 560 520S800 500 900 540V700H0Z" fill="#1f6b4a"/>
+<rect x="196" y="300" width="22" height="190" fill="#5a3b24"/><circle cx="207" cy="270" r="88" fill="#2c8a5f"/><circle cx="150" cy="320" r="58" fill="#3da573"/><circle cx="268" cy="316" r="62" fill="#3da573"/>
+<g fill="#fff" opacity=".92"><ellipse cx="520" cy="600" rx="26" ry="22"/><circle cx="486" cy="568" r="11"/><circle cx="512" cy="552" r="11"/><circle cx="540" cy="552" r="11"/><circle cx="566" cy="568" r="11"/>
+<ellipse cx="690" cy="640" rx="22" ry="18"/><circle cx="662" cy="614" r="9"/><circle cx="683" cy="601" r="9"/><circle cx="706" cy="601" r="9"/><circle cx="727" cy="614" r="9"/></g>
+</svg>
